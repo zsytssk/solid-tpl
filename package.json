@@ -6,6 +6,7 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
+    "build_dev": "vite build --mode development",
     "build": "vite build",
     "serve": "vite preview",
     "test": "vitest"
